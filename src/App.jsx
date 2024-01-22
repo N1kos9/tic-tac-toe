@@ -75,7 +75,7 @@ const App = () => {
     <div className="text-center mt-6">
       <div className="flex justify-center ">
         <h1 ref={titleRef} className="text-5xl font-sans items-center flex ">
-          Tic tac game
+          Tic tac game.
         </h1>
       </div>
       <div className="flex h-boardH w-boardW m-auto justify-center gap-2 mt-10">
