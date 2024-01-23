@@ -155,7 +155,7 @@ const App = () => {
         }}
         className="duration-200 cursor-pointer text-3xl border p-3 rounded-lg hover:text-black hover:bg-white "
       >
-        Reset game
+        Reset game!
       </button>
     </div>
   );
